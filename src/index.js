@@ -13,7 +13,7 @@ class App extends Component {
       gender: "Female",
       email: "adhooge0@wikipedia.org",
       phone: "1571022046",
-      picture: "http://kvinod.com/old_ci/randomdata/images/women/1.jpg"
+      picture: "https://apextar.biz/wp-content/uploads/2020/01/user2.jpg"
     };
 
     const contacts = [
@@ -23,7 +23,7 @@ class App extends Component {
         gender: "Male",
         email: "rtothe1@usa.gov",
         phone: "1983800201",
-        picture: "http://kvinod.com/old_ci/randomdata/images/men/2.jpg"
+        picture: "https://apextar.biz/wp-content/uploads/2019/09/ARIF.jpg"
       },
       {
         id: 3,
@@ -31,7 +31,7 @@ class App extends Component {
         gender: "Male",
         email: "rtace2@stanford.edu",
         phone: "7704172788",
-        picture: "http://kvinod.com/old_ci/randomdata/images/men/3.jpg"
+        picture: "https://www.cw.in.th/demo2/assets/images/client.jpg"
       },
       {
         id: 4,
@@ -39,7 +39,7 @@ class App extends Component {
         gender: "Female",
         email: "pkingsnod3@yellowbook.com",
         phone: "8137639930",
-        picture: "http://kvinod.com/old_ci/randomdata/images/women/4.jpg"
+        picture: "https://www.theprofs.co.uk/images/tutors/stephanie.jpg"
       },
       {
         id: 5,
@@ -47,7 +47,7 @@ class App extends Component {
         gender: "Female",
         email: "smanach4@scientificamerican.com",
         phone: "9459000368",
-        picture: "http://kvinod.com/old_ci/randomdata/images/women/5.jpg"
+        picture: "https://www.theprofs.co.uk/images/tutors/deborah.jpg"
       }
     ];
 
